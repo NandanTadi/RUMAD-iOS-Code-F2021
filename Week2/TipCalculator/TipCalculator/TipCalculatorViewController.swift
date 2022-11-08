@@ -13,7 +13,7 @@ class TipCalculatorViewController: UIViewController {
     @IBOutlet weak var mainHeader: UILabel!
     
     override func viewDidLoad() {
-        super.viewDidLoad()
+        super.viewDteidLoad()
     }
 }
 
